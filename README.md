@@ -1,5 +1,6 @@
 # Week-1-CodePath-iOS-for-Designers-Assignment-Dropbox
-Initial Push Week 1 Assignment
+
+Time spent: 11 hours spent in total
 
 I went through the assignment checking off all of the steps. 
 
